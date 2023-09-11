@@ -1,2 +1,2 @@
-# predictive-modeling
-Repository for the predictive modeling course.
+# Machine Learning for Life Sciences
+Repository for the predictive modeling course at UGent.
